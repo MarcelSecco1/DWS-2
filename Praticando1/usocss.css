@@ -1,0 +1,84 @@
+.formulario{ 
+    margin-left: 0px;
+    margin-top: 40px;
+    margin-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.formulario input{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 1em;
+}
+.teste{
+    display: inline-block;
+}
+.limpar{
+    background-color: #7DABDB;
+    border-radius: 20px;
+}
+.enviar{
+    margin-bottom: 15px;
+    background-color: #D9AD62;
+    border-radius: 20px;
+}
+
+.title{ 
+    font-size: 1.7rem;
+    display: block;
+    text-align: center;
+}
+header{
+    background-color: gray;
+    padding: 50px;
+}
+
+
+button{
+    display: inline-block;
+    width: 8em;
+    align-items: center;
+    margin-right: 15px;
+    font-size: 1.3rem;  
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.formulario select{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 1.2em;
+}
+
+img{
+    float: right;
+    width: auto;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.texto h2{
+    border-bottom: solid 5px black;
+    margin-bottom: none;
+    margin-left: 30px;
+
+}
+.texto{
+    border-left: solid 5px black;
+    margin-top: 20px;
+}
+.texto p {
+    margin-left: 30px;
+}
+.right{
+    display: flex;
+
+}
+.pai{
+    display: flex;
+}

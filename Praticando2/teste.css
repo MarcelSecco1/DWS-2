@@ -1,0 +1,19 @@
+.formulario{
+    margin-left: 50px;
+}
+.limpar{
+    margin-left: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.enviar{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.teste{
+    display: inline-block;
+}
